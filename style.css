@@ -61,6 +61,10 @@ a.doi {
     color: #d16b2c;
 }
 
+b {
+    opacity: 0.8
+}
+
 h1 {
     background-color: transparent;
     border-bottom: 2px solid black;
